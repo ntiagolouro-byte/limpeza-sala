@@ -1,0 +1,5 @@
+# Limpeza da sala - manifesto da atualização
+versao=2.8
+data=2026-10-31 18:15
+Limpar-Contas-Microsoft.ps1=84f1ab8adf8a33a96f48766b4cfaf8e1dd46a8ace9d3bcb3e308d8b423132639
+Sites-Bloqueados.txt=b1c5614c39dfd6047d33960044f08604e4dea008857e17c26e54ab16d68e7a3b

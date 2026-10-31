@@ -1,0 +1,19 @@
+﻿# ======================================================================
+#  Sites-Bloqueados.txt - lista de sites bloqueados nos computadores
+#
+#  - Um endereço por linha. Basta o domínio: poki.com bloqueia também
+#    www.poki.com e todos os outros subdomínios no Chrome e no Edge.
+#  - Pode escrever o endereço completo (https://www.poki.com/pt): o
+#    script fica só com o domínio.
+#  - Linhas começadas por # são comentários e são ignoradas.
+#  - Para aplicar alterações: guardar este ficheiro na pasta da pen e
+#    voltar a correr o Instalar-Arranque.bat em cada computador.
+# ======================================================================
+
+# Sites de jogos
+poki.com
+crazygames.com
+friv.com
+y8.com
+miniclip.com
+kizi.com
